@@ -26,7 +26,7 @@ def format_request(data):
                 "Children": []}],
     "source": {"Client": "10001",
                 "EMailAddress": "test@test.com",
-                "Password": "123456789"}}}
+                "Password": "xxxx"}}}
     
     return js_data
 
